@@ -1,4 +1,10 @@
+<<<<<<< HEAD
+line in master
+line in dev
+=======
+
 def master():Int = {
 println(written in master)
 println(written in dev)
 }
+>>>>>>> dev
