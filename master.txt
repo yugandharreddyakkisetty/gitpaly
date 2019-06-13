@@ -1,6 +1,6 @@
 def master():Int = {
+this line added in dev
 println(written in master)
-this is one : master
 println(written in dev)
-this is two:master
+this line is edited in dev
 }
