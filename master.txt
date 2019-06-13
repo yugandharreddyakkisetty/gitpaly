@@ -1,4 +1,6 @@
 def master():Int = {
 println(written in master)
+this is one : master
 println(written in dev)
+this is two:master
 }
